@@ -1,1 +1,1 @@
-<span color🚡>Inputs/Outputs:</span>
+<span color: green>Inputs/Outputs:</span>
