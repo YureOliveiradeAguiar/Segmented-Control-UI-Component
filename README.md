@@ -12,7 +12,7 @@ The other version is ideal for filters, view toggles and such.
 />
 ```
 <li> [value]="selectedOption" // Sets the current value </li>
-
+<br>
 <strong>Example inputs</strong><br>
 ```html
 options: SegmentedControlOption[]= [
