@@ -11,10 +11,8 @@ The other version is ideal for filters, view toggles and such.
     (valueChanged)="selectedOption = $event"
 />
 ```
-<ul>
-    <li> [value]="selectedOption" // Sets the current value </li>
-</ul>
-<strong>Example inputs</strong><br>
+[value]="selectedOption" // Sets the current value <br><br>
+<strong>Example inputs</strong>
 ```html
 options: SegmentedControlOption[]= [
     {label:"low", value: 1},
